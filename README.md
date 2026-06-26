@@ -49,3 +49,11 @@ The dashboard was built using **Microsoft Excel** with **Power Query** for data 
 * DAX Measures
 * Pivot Tables
 * Interactive Dashboard Design
+
+## Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
+**Source:**https://www.kaggle.com/datasets/gayatriwagadre/pwc-call-centre-analysis 
+
+All analysis, data cleaning, data modeling, dashboard design, and business insights were developed by me using Microsoft Excel.
